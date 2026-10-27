@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Wellness/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Wellness?style=for-the-badge&logo=apachespark&color=f59e0b" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Wellness/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Wellness?style=for-the-badge&logo=apachespark&color=f59e0b" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Corporate-Wellness/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Corporate-Wellness?style=for-the-badge&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Corporate-Wellness/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -73,76 +73,76 @@ The global corporate wellness market is valued between **$55B and $76B** (projec
 ## 💻 Open-Source GitHub Projects
 
 > [!NOTE] 
-> Dedicated open-source corporate wellness platforms are early-stage compared to enterprise SaaS. Most projects are focused on pulse surveys, anonymous psychological support, sentiment analytics, or diagnostic burnout risk modeling. Repositories below are equipped with live social star badges and sorted by star count in descending order.
+> Dedicated open-source corporate wellness platforms are early-stage compared to enterprise SaaS. Most projects are focused on pulse surveys, anonymous psychological support, sentiment analytics, or diagnostic burnout risk modeling. Repositories below are equipped with live social Stars_Badges and sorted by Stars_Count in descending order.
 
 ### ⭐ Featured Open-Source Repositories (Ranked by Stars)
 
-1. **[NLP Sentiment Analysis for Internal Communications](https://github.com/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications)** [![GitHub stars](https://img.shields.io/github/stars/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications?style=social&color=white)](https://github.com/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications/stargazers)
+1. **[NLP Sentiment Analysis for Internal Communications](https://github.com/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications)** [![GitHub_Stars](https://img.shields.io/github/stars/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications?style=social&color=white)](https://github.com/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications/stargazers)
    - **Overview:** Uses Natural Language Processing (NLP) to perform sentiment analysis on team communications and survey feedback, helping organizations gauge employee mood, detect morale shifts, and surface workplace engagement blockers.
    - **Tech Stack:** Python, NLP, Sentiment Transformers.
    - **Best For:** HR analytics teams wanting automated, data-driven mood and sentiment extraction from feedback channels.
 
-2. **[Employees Burnout Analysis and Prediction](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction)** [![GitHub stars](https://img.shields.io/github/stars/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=social&color=white)](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/stargazers)
+2. **[Employees Burnout Analysis and Prediction](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction)** [![GitHub_Stars](https://img.shields.io/github/stars/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=social&color=white)](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/stargazers)
    - **Overview:** A data science framework and predictive modeling toolkit focused on analyzing work-from-home stress factors, workload volume, mental fatigue scores, and forecasting employee burnout risk.
    - **Tech Stack:** Python, Pandas, Scikit-Learn, Jupyter Notebook.
    - **Best For:** People analytics researchers exploring correlation between remote work fatigue and team attrition.
 
-3. **[Employee Burnout & EX Improvement Agent Skill](https://github.com/dungnotnull/employee-burnout-ex-improvement-agent-skill)** [![GitHub stars](https://img.shields.io/github/stars/dungnotnull/employee-burnout-ex-improvement-agent-skill?style=social&color=white)](https://github.com/dungnotnull/employee-burnout-ex-improvement-agent-skill/stargazers)
+3. **[Employee Burnout & EX Improvement Agent Skill](https://github.com/dungnotnull/employee-burnout-ex-improvement-agent-skill)** [![GitHub_Stars](https://img.shields.io/github/stars/dungnotnull/employee-burnout-ex-improvement-agent-skill?style=social&color=white)](https://github.com/dungnotnull/employee-burnout-ex-improvement-agent-skill/stargazers)
    - **Overview:** Production-grade organizational psychology harness auditing workplace exhaustion against Maslach Burnout Inventory (MBI) and Job Demands-Resources (JD-R) models with privacy-preserving collection pipelines.
    - **Tech Stack:** Python, Crawl4AI, Organizational Psychology MBI Evaluation Framework.
    - **Best For:** Engineering and HR teams wanting automated organizational psychology audits without violating employee privacy.
 
-4. **[BurnoutShield](https://github.com/its-crazy4u/burnoutshield)** [![GitHub stars](https://img.shields.io/github/stars/its-crazy4u/burnoutshield?style=social&color=white)](https://github.com/its-crazy4u/burnoutshield/stargazers)
+4. **[BurnoutShield](https://github.com/its-crazy4u/burnoutshield)** [![GitHub_Stars](https://img.shields.io/github/stars/its-crazy4u/burnoutshield?style=social&color=white)](https://github.com/its-crazy4u/burnoutshield/stargazers)
    - **Overview:** Privacy-first desktop application detecting employee burnout risk in real time using passive keystroke and mouse behavioral AI metrics, based on published academic research.
    - **Tech Stack:** Python, Behavioral Analytics, Desktop UI.
    - **Best For:** Organizations exploring non-intrusive, edge-computed burnout warning signals.
 
-5. **[AI-Workforce-Wellbeing](https://github.com/raimegha630/AI-Workforce-Wellbeing)** [![GitHub stars](https://img.shields.io/github/stars/raimegha630/AI-Workforce-Wellbeing?style=social&color=white)](https://github.com/raimegha630/AI-Workforce-Wellbeing/stargazers)
+5. **[AI-Workforce-Wellbeing](https://github.com/raimegha630/AI-Workforce-Wellbeing)** [![GitHub_Stars](https://img.shields.io/github/stars/raimegha630/AI-Workforce-Wellbeing?style=social&color=white)](https://github.com/raimegha630/AI-Workforce-Wellbeing/stargazers)
    - **Overview:** AI-powered workplace analytics platform monitoring team productivity and wellbeing using sentiment analysis and interactive Streamlit data visualizations for quick insights into stress trends.
    - **Tech Stack:** Python, Streamlit, NLP Sentiment Analysis.
    - **Best For:** Small business managers wanting a self-hosted dashboard for monitoring collective team stress patterns.
 
-6. **[StaffPulse](https://github.com/SK3CHI3/STAFF_PULSE)** [![GitHub stars](https://img.shields.io/github/stars/SK3CHI3/STAFF_PULSE?style=social&color=white)](https://github.com/SK3CHI3/STAFF_PULSE/stargazers)
+6. **[StaffPulse](https://github.com/SK3CHI3/STAFF_PULSE)** [![GitHub_Stars](https://img.shields.io/github/stars/SK3CHI3/STAFF_PULSE?style=social&color=white)](https://github.com/SK3CHI3/STAFF_PULSE/stargazers)
    - **Overview:** WhatsApp-based AI HR tool helping distributed teams track employee mood, detect burnout, and enhance workplace culture through automated weekly check-ins and real-time sentiment dashboards.
    - **Tech Stack:** Node.js / Python, WhatsApp Business API, Sentiment Dashboards.
    - **Best For:** Mobile-first or frontline teams needing zero-friction check-ins via chat apps.
 
-7. **[ServiceNow Employee Wellness Hub](https://github.com/10DownPro/servicenow-employee-wellness-hub)** [![GitHub stars](https://img.shields.io/github/stars/10DownPro/servicenow-employee-wellness-hub?style=social&color=white)](https://github.com/10DownPro/servicenow-employee-wellness-hub/stargazers)
+7. **[ServiceNow Employee Wellness Hub](https://github.com/10DownPro/servicenow-employee-wellness-hub)** [![GitHub_Stars](https://img.shields.io/github/stars/10DownPro/servicenow-employee-wellness-hub?style=social&color=white)](https://github.com/10DownPro/servicenow-employee-wellness-hub/stargazers)
    - **Overview:** Scoped ServiceNow application managing employee wellness check-ins, coaching sessions, and mental health resources with enterprise-grade role-based access controls and compliance safeguards.
    - **Tech Stack:** ServiceNow Scoped App, JavaScript, Flow Designer.
    - **Best For:** Enterprise enterprises already running ServiceNow who desire internal wellness tracking within their existing IT/HR portal.
 
-8. **[Project PulseIQ](https://github.com/K-Tejaswi8/Project-PulseIQ)** [![GitHub stars](https://img.shields.io/github/stars/K-Tejaswi8/Project-PulseIQ?style=social&color=white)](https://github.com/K-Tejaswi8/Project-PulseIQ/stargazers)
+8. **[Project PulseIQ](https://github.com/K-Tejaswi8/Project-PulseIQ)** [![GitHub_Stars](https://img.shields.io/github/stars/K-Tejaswi8/Project-PulseIQ?style=social&color=white)](https://github.com/K-Tejaswi8/Project-PulseIQ/stargazers)
    - **Overview:** Workforce analytics dashboard tracking employee burnout, attrition risk, and engagement across departments via stress/overtime heatmaps and predictive health forecasting.
    - **Tech Stack:** Power BI, DAX, Advanced Workforce Data Models.
    - **Best For:** People ops leaders looking for executive-ready burnout heatmaps and attrition correlations.
 
-9. **[WellMo](https://github.com/DKeen0123/WellMo)** [![GitHub stars](https://img.shields.io/github/stars/DKeen0123/WellMo?style=social&color=white)](https://github.com/DKeen0123/WellMo/stargazers)
+9. **[WellMo](https://github.com/DKeen0123/WellMo)** [![GitHub_Stars](https://img.shields.io/github/stars/DKeen0123/WellMo?style=social&color=white)](https://github.com/DKeen0123/WellMo/stargazers)
    - **Overview:** Lightweight, test-driven wellbeing check-in application built with ReactJS for logging personal wellness and team sentiment.
    - **Tech Stack:** React, JavaScript, Jest/TDD.
    - **Best For:** Engineering teams looking for a clean, test-driven React template for mood logging.
 
-10. **[Mental Health Check](https://github.com/shamkaushal10-svg/mental-health-check)** [![GitHub stars](https://img.shields.io/github/stars/shamkaushal10-svg/mental-health-check?style=social&color=white)](https://github.com/shamkaushal10-svg/mental-health-check/stargazers)
+10. **[Mental Health Check](https://github.com/shamkaushal10-svg/mental-health-check)** [![GitHub_Stars](https://img.shields.io/github/stars/shamkaushal10-svg/mental-health-check?style=social&color=white)](https://github.com/shamkaushal10-svg/mental-health-check/stargazers)
     - **Overview:** Private, browser-based mental wellbeing check-in tool calculating an index score out of 100 based on standard psychological wellness questions.
     - **Tech Stack:** HTML5, CSS3, JavaScript.
     - **Best For:** Individuals or teams wanting an instant, zero-backend self-assessment utility.
 
-11. **[WorkMate](https://github.com/karlis0099/WorkMate)** [![GitHub stars](https://img.shields.io/github/stars/karlis0099/WorkMate?style=social&color=white)](https://github.com/karlis0099/WorkMate/stargazers)
+11. **[WorkMate](https://github.com/karlis0099/WorkMate)** [![GitHub_Stars](https://img.shields.io/github/stars/karlis0099/WorkMate?style=social&color=white)](https://github.com/karlis0099/WorkMate/stargazers)
     - **Overview:** A weekly 7-dimension psychological check-in system (mood, energy, motivation, stress, work-life balance, connection, accomplishment) featuring composite scores, burnout risk Slack/Teams webhooks, and manager analytics.
     - **Tech Stack:** Java, SQLite, Local Web UI.
     - **Best For:** Small internal teams wanting a private, self-hosted weekly check-in server with webhook notifications.
 
-12. **[MindBridge](https://github.com/guopanqi/mindbridge)** [![GitHub stars](https://img.shields.io/github/stars/guopanqi/mindbridge?style=social&color=white)](https://github.com/guopanqi/mindbridge/stargazers)
+12. **[MindBridge](https://github.com/guopanqi/mindbridge)** [![GitHub_Stars](https://img.shields.io/github/stars/guopanqi/mindbridge?style=social&color=white)](https://github.com/guopanqi/mindbridge/stargazers)
     - **Overview:** Privacy-architected anonymous employee psychological support system featuring AES-GCM encrypted counseling, crisis detection rules, and hardcoded HR aggregation thresholds (hidden when sample size < 10).
     - **Tech Stack:** Cloudflare Pages/Workers, D1 database, DingTalk Bot.
     - **Best For:** Organizations prioritizing end-to-end cryptographic privacy and counselor-managed workflows.
 
-13. **[AI Wellness Hub](https://github.com/Saikumar1801/AI-Wellness-Hub)** [![GitHub stars](https://img.shields.io/github/stars/Saikumar1801/AI-Wellness-Hub?style=social&color=white)](https://github.com/Saikumar1801/AI-Wellness-Hub/stargazers)
+13. **[AI Wellness Hub](https://github.com/Saikumar1801/AI-Wellness-Hub)** [![GitHub_Stars](https://img.shields.io/github/stars/Saikumar1801/AI-Wellness-Hub?style=social&color=white)](https://github.com/Saikumar1801/AI-Wellness-Hub/stargazers)
     - **Overview:** Dual-AI workplace mental health system combining an XGBoost predictive treatment-likelihood model, SHAP factor explainability, and a Gemini-powered advisor with safety hotline fallback protocols.
     - **Tech Stack:** Python, Streamlit, XGBoost, SHAP, Google Gemini API.
     - **Best For:** HR data scientists seeking a reference prototype for explainable AI wellness diagnostics.
 
-14. **[Impulse Wellness Platform (Move On)](https://github.com/Matheussoranco/Unified_industrial_HR_System)** [![GitHub stars](https://img.shields.io/github/stars/Matheussoranco/Unified_industrial_HR_System?style=social&color=white)](https://github.com/Matheussoranco/Unified_industrial_HR_System/stargazers)
+14. **[Impulse Wellness Platform (Move On)](https://github.com/Matheussoranco/Unified_industrial_HR_System)** [![GitHub_Stars](https://img.shields.io/github/stars/Matheussoranco/Unified_industrial_HR_System?style=social&color=white)](https://github.com/Matheussoranco/Unified_industrial_HR_System/stargazers)
     - **Overview:** Comprehensive corporate wellness frontend prototype covering physical, mental, and nutritional health tracking, corporate rankings, and leaderboards.
     - **Tech Stack:** React, TypeScript, Tailwind CSS.
     - **Best For:** UI/UX developers seeking a full-featured wellness platform interface to adapt.
