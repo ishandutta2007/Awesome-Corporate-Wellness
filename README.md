@@ -1,48 +1,59 @@
-# Awesome-Corporate-Wellness
+# Awesome Corporate Wellness 🌿
 
-# Awesome-Corporate-Wellness
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Corporate Wellness Banner" width="100%" />
+</p>
 
-**Top Corporate Wellness (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Wellness/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Wellness?style=for-the-badge&logo=apachespark&color=f59e0b" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Wellness/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Corporate-Wellness?style=for-the-badge&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Wellness/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+<p align="center">
+  <strong>🌟 Top Corporate Wellness Platforms &amp; Open-Source Projects 🌟</strong><br>
+  <em>A curated directory of SaaS platforms, tools, and open-source software for employee wellbeing check-ins, mental health support, burnout risk prevention, and workplace people analytics.</em>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+## 📌 Overview &amp; Key Features
 
-*Focused on Employee Wellbeing Check-ins, Mental Health Support, Burnout Prevention & Workplace Analytics*
+This repository tracks notable **enterprise SaaS solutions** and **open-source repositories** designed for modern **Corporate Wellness**, **Employee Mental Health**, and **Workforce Resilience**. These tools empower people ops leaders, HR practitioners, and engineering teams to:
+- 🩺 **Conduct Employee Wellbeing Check-ins**: Measure team mood, stress levels, work-life balance, and connection.
+- 🛡️ **Detect &amp; Prevent Burnout Risk**: Leverage early behavioral indicators, sentiment analysis, and pulse metrics.
+- 🧠 **Provide Mental Health &amp; Psychological Support**: Facilitate anonymous counseling, mindfulness exercises, and therapy access.
+- 📊 **Deliver Actionable People Analytics**: Provide management with high-level anonymized wellness dashboards with strict privacy thresholds.
+- 🔒 **Enable Self-Hosted Data Sovereignty**: Deploy open-source, on-premise wellness infrastructure ensuring employee health data stays private and compliant.
 
-**Last updated: October 2026**
+> **Last Updated:** October 2026 • Contributions are warmly welcomed! 🤝
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Corporate Wellness**. These tools enable organizations to support employee physical and mental health, run wellbeing check-ins, detect burnout risk, provide anonymous mental health resources, and give HR teams aggregated insights—from fully managed enterprise wellness platforms with clinical networks and global benefits to self-hosted applications that give organizations complete control over sensitive employee health data.
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Enterprise Platforms](#-saas--hosted-enterprise-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⭐ Featured Open-Source Repositories (Ranked by Stars)](#-featured-open-source-repositories-ranked-by-stars)
+  - [📦 Additional Open-Source Solutions & Tools](#-additional-open-source-solutions--tools)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📊 Star History](#-star-history)
+- [⚠️ Disclaimer & Security Considerations](#-disclaimer--security-considerations)
 
+---
 
-
-**Examples** include Virgin Pulse, Wellable, Wellhub, Calm for Business, Headspace for Work, Spring Health, Lyra Health, WebMD Health Services, Limeade, and Workday Wellness (the category leaders in commercial space).
-
-
-
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosting, wellbeing tracking, and open mental health infrastructure. **Critical note**: Dedicated open-source corporate wellness platforms are sparse and early-stage. Most projects below are individual developer efforts, hackathon prototypes, or narrow-scope tools—none replicate the clinical networks and global content libraries of Spring Health or Lyra Health.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📈 Sector Overview & Market Dynamics
 
 The global corporate wellness market is valued between **$55B and $76B** (projected to reach over $100B by 2030 at ~7–9% CAGR), driven by preventive digital health, remote workplace ergonomics, and corporate mental health investments. The industry is currently **moderately fragmented**—with no single leader controlling more than 10% market share and the top 10 providers capturing 35–40%—though it is rapidly consolidating through M&A as enterprise buyers migrate away from point solutions toward unified, all-in-one health and benefits platforms.
 
-## SaaS/Hosted Platforms
+---
+
+## 🏢 SaaS / Hosted Enterprise Platforms
 
 | Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tiers) | Free Tier / Trial Limits | Key Capabilities & Best For |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,112 +68,130 @@ The global corporate wellness market is valued between **$55B and $76B** (projec
 | **[Limeade](https://www.limeade.com/)** *(WebMD ONE)* | **$75M Acquisition Price** (~$56M annual revenue) | Employee listening and wellbeing suites start at **~$3–$7 PEPM** (minimum employee headcount thresholds apply) | **No perpetual free tier**; custom employer demo of TINYpulse and Limeade Well-Being suites upon request | Holistic employee engagement, organizational inclusion, pulse survey analytics, and well-being habit tracking. |
 | **[Wellable](https://www.wellable.co/)** | **~$22M–$26M ARR** (Private Growth Stage) | *Essentials* tier starts at **$4.00/user/month** ($100/mo platform minimum; *Pro* tier starts at $6.00/user/month) | **No perpetual free tier**; interactive product tours and personalized 1-on-1 team demonstrations on request | Mid-market structured wellness challenges, customizable rewards programs, and wearable health tracker syncing. |
 
-## Open-Source GitHub Projects
-
-
-
-- **[WorkMate](https://github.com/karlis0099/WorkMate)**
-
-  **Employee wellbeing platform** (license per repo) — **the most complete open-source wellbeing check-in system** found in this research. **Features**: Weekly 7-dimension psychological check-ins (mood, energy, motivation, stress, work-life balance, team connection, accomplishment), real-time composite wellbeing scores, burnout risk alerts with Slack/Teams webhooks, manager dashboard with team analytics, and CSV export . **Tech stack**: Java (desktop app serving local web UI), SQLite. **Deploy**: Self-hosted on local network. **Trade-off**: Desktop-application architecture limits remote access; no clinical resources, EAP integration, or content library. **Best for**: small teams wanting a private, self-hosted weekly check-in tool with burnout detection and manager visibility.
-
-
-
-- **[MindBridge](https://github.com/guopanqi/mindbridge)**
-
-  **Anonymous employee psychological support system for DingTalk organizations** (license per repo) — **the most privacy-architected open-source mental health platform** in this list. **Features**: Anonymous employee counseling sessions, mood tracking, community posts, counselor case management, and HR aggregate dashboards with **hardcoded privacy thresholds** (no data shown when sample size < 10). Employee conversations encrypted with AES-GCM; crisis detection via deterministic rules engine; HR can only see aggregates, never individual identities . **Tech stack**: Cloudflare Pages/Workers, D1 databases (physically separated identity/care/staff), Node.js DingTalk bot. **Deploy**: Cloudflare ecosystem (requires DingTalk for auth). **Trade-off**: DingTalk-dependent; Chinese-language; no physical wellness features. **Best for**: organizations in the DingTalk ecosystem wanting genuinely anonymous mental health support with strict privacy guarantees.
-
-
-
-- **[AI Wellness Hub](https://github.com/Saikumar1801/AI-Wellness-Hub)**
-
-  **Dual-AI workplace mental health platform** (license per repo) — **a sophisticated diagnostic tool for HR plus a safe employee chatbot**. **Features**: XGBoost predictive model forecasting employee mental health treatment likelihood; SHAP explainability showing actionable workplace factors; Google Gemini-powered advisor for HR recommendations and an employee-facing informational chatbot with crisis hotline safety protocols; downloadable PDF reports . **Tech stack**: Python, Streamlit, Scikit-learn/XGBoost, SHAP, Google Gemini API. **Deploy**: Self-hosted (Streamlit). **Trade-off**: **Hackathon project**—no authentication, no persistent multi-tenant data, no production deployment model. **Best for**: HR analysts wanting a reference implementation for predictive workplace mental health analytics.
-
-
-
-- **[Sanicle-AI](https://github.com/ChanMeng666/sanicle-ai)**
-
-  **Women's health platform designed for workplace wellness** (license per repo) — **a specialized FemTech application with enterprise privacy architecture**. **Features**: Personalized health tracking for female employees (menstrual health, menopause support), dual AI integration (IBM WatsonX for quick chat, Google Gemini for deep consultations), HR dashboards with **anonymized aggregate insights only**, multi-tenant isolation, GDPR-compliant data handling, and role-based access control . **Tech stack**: Next.js, TypeScript, IBM WatsonX, Google Gemini. **Deploy**: Self-hosted. **Trade-off**: **Narrow scope** (women's health only); small community (1 star); enterprise features unvalidated at scale. **Best for**: organizations wanting to offer specialized women's health support with strict data separation between employees and HR.
-
-
-
-- **[Sentio](https://hub.docker.com/r/padi2312/sentio)**
-
-  **Team mood tracker** (license per repo) — **a lightweight, privacy-conscious daily check-in tool** modeled on the Niko-Niko calendar. **Features**: One-click daily mood logging, anonymous mode per team, team dashboards with wellbeing trends, personal mood history, browser push notifications, custom recurring reminders, Google Calendar integration for event-based check-ins, and admin-configurable mood options . **Tech stack**: Docker, PostgreSQL, pnpm/Vite frontend. **Deploy**: Docker Compose (recommended). **Trade-off**: Mood tracking only—no clinical resources, EAP integration, or burnout analytics. **Best for**: small teams wanting a simple, self-hosted daily mood pulse without complex setup.
-
-
-
-- **[Impulse Wellness Platform (Move On)](https://github.com/Matheussoranco/Unified_industrial_HR_System)**
-
-  **Comprehensive corporate wellness platform** (AGPL-3.0) — **a frontend prototype covering physical, mental, and nutritional health**. **Features**: Health tracking (heart rate, weight, mood, stress, hydration), corporate wellness programs with rankings, community posts and leaderboards, healthy recipes, and HR benefits management . **Tech stack**: React, TypeScript, Tailwind CSS. **Deploy**: Self-hosted (Node.js). **Trade-off**: **Discontinued project**—developer explicitly states lack of corporate support ended development; no backend, simulated authentication only. **Best for**: developers wanting a UI reference for a multi-dimensional wellness platform to fork and complete.
-
-
-
-- **[wellness-agent](https://github.com/ChanMeng666/wellness-agent)**
-
-  **Enterprise-grade workplace wellness platform** (license per repo) with 5 specialized AI agents. **Features**: Privacy-first multi-role support (employees, HR managers, employers), persistent memory system, real-time wellness tracking, and role-based access . **Tech stack**: TypeScript. **Deploy**: Self-hosted. **Trade-off**: **Zero stars, zero forks**—unvalidated, undocumented, and likely a portfolio project. **Best for**: developers wanting a starting point for AI-agent-based wellness architecture.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Reflect (Microsoft Teams)** — Custom Teams message extension (MIT) for safe emotional wellbeing check-ins. **Features**: Share state of emotional wellbeing with colleagues or group leaders directly in Teams; check-in response can be public, private-to-sender, or fully anonymous . **Best for**: Microsoft Teams organizations wanting a native, low-friction wellbeing pulse tool.
-
-- **Aura Health AI** — Python Dash prototype (license per repo) with employee wellness dashboard and HR analytics. **Note**: Rule-based AI simulation; mock data only; no real backend . **Best for**: developers wanting a UI/UX reference for a dual-dashboard wellness prototype.
-
-- **health-frontend** — React wellness check-in UI with manager dashboard (license per repo). **Features**: Daily wellness questionnaire, manager aggregated view, HIPAA/GDPR-oriented design . **Best for**: frontend developers needing a starting point for a compliant check-in interface.
-
-
-
-**Frameworks for building custom systems**: Combine **WorkMate** for weekly psychological check-ins with burnout alerts, **MindBridge** for anonymous mental health support with strict privacy architecture, **Sentio** for lightweight daily mood pulses, and **AI Wellness Hub** as a reference for predictive analytics—creating a corporate wellness stack matched to each organization's privacy requirements and depth of support needed. **None of these replace a full clinical network** like Spring Health or Lyra Health.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Corporate wellness platforms handling employee health and mental health data must comply with data protection regulations (HIPAA where applicable, GDPR, CCPA, etc.) and implement appropriate access controls, anonymization, and audit trails. **Mental health data is among the most sensitive categories**—privacy architecture must be evaluated carefully before deployment.
-
-- **Dedicated open-source corporate wellness platforms are sparse and immature.** No mature open-source project matches Virgin Pulse, Spring Health, or Lyra Health in scope (clinical networks, global content libraries, EAP integration, outcomes measurement). **WorkMate** is the most complete check-in system; **MindBridge** has the strongest privacy architecture; **Sanicle-AI** is the most specialized. **Most others are prototypes, hackathon projects, or discontinued efforts.** Organizations with genuine enterprise wellness needs will likely require SaaS or significant custom development.
-
-- **The "check-in tool" vs. "mental health platform" vs. "clinical benefit" distinction matters.** **WorkMate, Sentio, and Reflect** are **pulse/check-in tools**—they measure how employees feel. **MindBridge** and **AI Wellness Hub** provide **support and analytics**. **Spring Health and Lyra Health** provide **clinical care**. **Do not confuse a mood tracker with a mental health benefit.**
-
-- **Privacy architecture varies dramatically.** **MindBridge** physically separates identity, care, and staff databases; encrypts conversations with AES-GCM; and hardcodes HR aggregate thresholds at <10 samples . **Sanicle-AI** claims multi-tenant isolation and anonymized HR dashboards . **WorkMate** stores check-in data in a local SQLite database with SHA-256 hashed PINs . **Aura Health AI** is a prototype with **no real data handling** . **Evaluate privacy design before trusting any tool with employee mental health data.**
-
-- **Pricing opacity is universal across commercial vendors.** Virgin Pulse, Wellable, Wellhub, Calm for Business, Headspace for Work, Spring Health, Lyra Health, WebMD Health Services, Limeade, and Workday Wellness all require sales contact for quotes. **Validate with direct vendor conversations against your employee count and desired scope.**
-
-- **Several open-source projects are explicitly discontinued or unvalidated.** **Impulse Wellness Platform** states development ended due to lack of support . **wellness-agent** has zero stars and no documentation . **AI Wellness Hub** and **Aura Health AI** are hackathon/prototype efforts with no production path . **Do not deploy abandoned or unvalidated software with sensitive employee health data.**
-
-- Self-hosted open-source solutions require proper server setup, backup configuration, and ongoing maintenance. **Employee wellness data is highly sensitive**—ensure your hosting meets your organization's security and privacy requirements before deploying.
-
-
+---
+
+## 💻 Open-Source GitHub Projects
+
+> [!NOTE] 
+> Dedicated open-source corporate wellness platforms are early-stage compared to enterprise SaaS. Most projects are focused on pulse surveys, anonymous psychological support, sentiment analytics, or diagnostic burnout risk modeling. Repositories below are equipped with live social star badges and sorted by star count in descending order.
+
+### ⭐ Featured Open-Source Repositories (Ranked by Stars)
+
+1. **[NLP Sentiment Analysis for Internal Communications](https://github.com/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications)** [![GitHub stars](https://img.shields.io/github/stars/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications?style=social&color=white)](https://github.com/Okes2024/NLP-for-Sentiment-Analysis-in-Internal-Communications/stargazers)
+   - **Overview:** Uses Natural Language Processing (NLP) to perform sentiment analysis on team communications and survey feedback, helping organizations gauge employee mood, detect morale shifts, and surface workplace engagement blockers.
+   - **Tech Stack:** Python, NLP, Sentiment Transformers.
+   - **Best For:** HR analytics teams wanting automated, data-driven mood and sentiment extraction from feedback channels.
+
+2. **[Employees Burnout Analysis and Prediction](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction)** [![GitHub stars](https://img.shields.io/github/stars/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=social&color=white)](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/stargazers)
+   - **Overview:** A data science framework and predictive modeling toolkit focused on analyzing work-from-home stress factors, workload volume, mental fatigue scores, and forecasting employee burnout risk.
+   - **Tech Stack:** Python, Pandas, Scikit-Learn, Jupyter Notebook.
+   - **Best For:** People analytics researchers exploring correlation between remote work fatigue and team attrition.
+
+3. **[Employee Burnout & EX Improvement Agent Skill](https://github.com/dungnotnull/employee-burnout-ex-improvement-agent-skill)** [![GitHub stars](https://img.shields.io/github/stars/dungnotnull/employee-burnout-ex-improvement-agent-skill?style=social&color=white)](https://github.com/dungnotnull/employee-burnout-ex-improvement-agent-skill/stargazers)
+   - **Overview:** Production-grade organizational psychology harness auditing workplace exhaustion against Maslach Burnout Inventory (MBI) and Job Demands-Resources (JD-R) models with privacy-preserving collection pipelines.
+   - **Tech Stack:** Python, Crawl4AI, Organizational Psychology MBI Evaluation Framework.
+   - **Best For:** Engineering and HR teams wanting automated organizational psychology audits without violating employee privacy.
+
+4. **[BurnoutShield](https://github.com/its-crazy4u/burnoutshield)** [![GitHub stars](https://img.shields.io/github/stars/its-crazy4u/burnoutshield?style=social&color=white)](https://github.com/its-crazy4u/burnoutshield/stargazers)
+   - **Overview:** Privacy-first desktop application detecting employee burnout risk in real time using passive keystroke and mouse behavioral AI metrics, based on published academic research.
+   - **Tech Stack:** Python, Behavioral Analytics, Desktop UI.
+   - **Best For:** Organizations exploring non-intrusive, edge-computed burnout warning signals.
+
+5. **[AI-Workforce-Wellbeing](https://github.com/raimegha630/AI-Workforce-Wellbeing)** [![GitHub stars](https://img.shields.io/github/stars/raimegha630/AI-Workforce-Wellbeing?style=social&color=white)](https://github.com/raimegha630/AI-Workforce-Wellbeing/stargazers)
+   - **Overview:** AI-powered workplace analytics platform monitoring team productivity and wellbeing using sentiment analysis and interactive Streamlit data visualizations for quick insights into stress trends.
+   - **Tech Stack:** Python, Streamlit, NLP Sentiment Analysis.
+   - **Best For:** Small business managers wanting a self-hosted dashboard for monitoring collective team stress patterns.
+
+6. **[StaffPulse](https://github.com/SK3CHI3/STAFF_PULSE)** [![GitHub stars](https://img.shields.io/github/stars/SK3CHI3/STAFF_PULSE?style=social&color=white)](https://github.com/SK3CHI3/STAFF_PULSE/stargazers)
+   - **Overview:** WhatsApp-based AI HR tool helping distributed teams track employee mood, detect burnout, and enhance workplace culture through automated weekly check-ins and real-time sentiment dashboards.
+   - **Tech Stack:** Node.js / Python, WhatsApp Business API, Sentiment Dashboards.
+   - **Best For:** Mobile-first or frontline teams needing zero-friction check-ins via chat apps.
+
+7. **[ServiceNow Employee Wellness Hub](https://github.com/10DownPro/servicenow-employee-wellness-hub)** [![GitHub stars](https://img.shields.io/github/stars/10DownPro/servicenow-employee-wellness-hub?style=social&color=white)](https://github.com/10DownPro/servicenow-employee-wellness-hub/stargazers)
+   - **Overview:** Scoped ServiceNow application managing employee wellness check-ins, coaching sessions, and mental health resources with enterprise-grade role-based access controls and compliance safeguards.
+   - **Tech Stack:** ServiceNow Scoped App, JavaScript, Flow Designer.
+   - **Best For:** Enterprise enterprises already running ServiceNow who desire internal wellness tracking within their existing IT/HR portal.
+
+8. **[Project PulseIQ](https://github.com/K-Tejaswi8/Project-PulseIQ)** [![GitHub stars](https://img.shields.io/github/stars/K-Tejaswi8/Project-PulseIQ?style=social&color=white)](https://github.com/K-Tejaswi8/Project-PulseIQ/stargazers)
+   - **Overview:** Workforce analytics dashboard tracking employee burnout, attrition risk, and engagement across departments via stress/overtime heatmaps and predictive health forecasting.
+   - **Tech Stack:** Power BI, DAX, Advanced Workforce Data Models.
+   - **Best For:** People ops leaders looking for executive-ready burnout heatmaps and attrition correlations.
+
+9. **[WellMo](https://github.com/DKeen0123/WellMo)** [![GitHub stars](https://img.shields.io/github/stars/DKeen0123/WellMo?style=social&color=white)](https://github.com/DKeen0123/WellMo/stargazers)
+   - **Overview:** Lightweight, test-driven wellbeing check-in application built with ReactJS for logging personal wellness and team sentiment.
+   - **Tech Stack:** React, JavaScript, Jest/TDD.
+   - **Best For:** Engineering teams looking for a clean, test-driven React template for mood logging.
+
+10. **[Mental Health Check](https://github.com/shamkaushal10-svg/mental-health-check)** [![GitHub stars](https://img.shields.io/github/stars/shamkaushal10-svg/mental-health-check?style=social&color=white)](https://github.com/shamkaushal10-svg/mental-health-check/stargazers)
+    - **Overview:** Private, browser-based mental wellbeing check-in tool calculating an index score out of 100 based on standard psychological wellness questions.
+    - **Tech Stack:** HTML5, CSS3, JavaScript.
+    - **Best For:** Individuals or teams wanting an instant, zero-backend self-assessment utility.
+
+11. **[WorkMate](https://github.com/karlis0099/WorkMate)** [![GitHub stars](https://img.shields.io/github/stars/karlis0099/WorkMate?style=social&color=white)](https://github.com/karlis0099/WorkMate/stargazers)
+    - **Overview:** A weekly 7-dimension psychological check-in system (mood, energy, motivation, stress, work-life balance, connection, accomplishment) featuring composite scores, burnout risk Slack/Teams webhooks, and manager analytics.
+    - **Tech Stack:** Java, SQLite, Local Web UI.
+    - **Best For:** Small internal teams wanting a private, self-hosted weekly check-in server with webhook notifications.
+
+12. **[MindBridge](https://github.com/guopanqi/mindbridge)** [![GitHub stars](https://img.shields.io/github/stars/guopanqi/mindbridge?style=social&color=white)](https://github.com/guopanqi/mindbridge/stargazers)
+    - **Overview:** Privacy-architected anonymous employee psychological support system featuring AES-GCM encrypted counseling, crisis detection rules, and hardcoded HR aggregation thresholds (hidden when sample size < 10).
+    - **Tech Stack:** Cloudflare Pages/Workers, D1 database, DingTalk Bot.
+    - **Best For:** Organizations prioritizing end-to-end cryptographic privacy and counselor-managed workflows.
+
+13. **[AI Wellness Hub](https://github.com/Saikumar1801/AI-Wellness-Hub)** [![GitHub stars](https://img.shields.io/github/stars/Saikumar1801/AI-Wellness-Hub?style=social&color=white)](https://github.com/Saikumar1801/AI-Wellness-Hub/stargazers)
+    - **Overview:** Dual-AI workplace mental health system combining an XGBoost predictive treatment-likelihood model, SHAP factor explainability, and a Gemini-powered advisor with safety hotline fallback protocols.
+    - **Tech Stack:** Python, Streamlit, XGBoost, SHAP, Google Gemini API.
+    - **Best For:** HR data scientists seeking a reference prototype for explainable AI wellness diagnostics.
+
+14. **[Impulse Wellness Platform (Move On)](https://github.com/Matheussoranco/Unified_industrial_HR_System)** [![GitHub stars](https://img.shields.io/github/stars/Matheussoranco/Unified_industrial_HR_System?style=social&color=white)](https://github.com/Matheussoranco/Unified_industrial_HR_System/stargazers)
+    - **Overview:** Comprehensive corporate wellness frontend prototype covering physical, mental, and nutritional health tracking, corporate rankings, and leaderboards.
+    - **Tech Stack:** React, TypeScript, Tailwind CSS.
+    - **Best For:** UI/UX developers seeking a full-featured wellness platform interface to adapt.
 
 ---
 
+### 📦 Additional Open-Source Solutions & Tools
 
+- **[Sentio](https://hub.docker.com/r/padi2312/sentio)** — Lightweight, privacy-conscious daily team mood tracker modeled on the Niko-Niko calendar with Docker Compose deployment, anonymous modes, and recurring calendar reminders.
+- **Reflect (Microsoft Teams)** — Custom Teams message extension (MIT) enabling employees to share emotional wellbeing states directly inside Microsoft Teams channels or privately with managers.
 
-**Made for developers, HR teams, and organizations building transparent corporate wellness solutions.**
+---
 
-Let's make Corporate Wellness more open, data-driven, and employee-friendly.
+## 🤝 How to Contribute
+
+Contributions are welcome! Please follow these guidelines:
+1. 🍴 Fork the repository.
+2. 🌿 Create a new feature branch (`git checkout -b feature/wellness-tool`).
+3. 📝 Add your tool with factual descriptions, active links, and pricing details.
+4. 🚀 Submit a Pull Request with a clear summary of your additions.
+
+---
+
+## 💖 Support & Community
+
+If you find this curated list valuable for your organization, research, or personal wellness projects, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover these resources!
+- 🍴 **Fork & Share** with your colleagues, HR leaders, and developer communities.
+- 💬 **Join our Discord Community**: [Chat with contributors on Discord](https://discord.gg/jc4xtF58Ve)
+- ☕ **Sponsor & Buy a Coffee**: If you'd like to back ongoing open-source maintenance, visit the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Your support helps keep this directory actively maintained!
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Corporate-Wellness&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Corporate-Wellness&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer & Security Considerations
+
+- This repository is a **community-curated index** for informational and educational purposes; inclusion does not constitute a clinical or corporate endorsement.
+- Corporate wellness tools handling employee health and psychological data must comply with relevant data protection statutes (**HIPAA**, **GDPR**, **CCPA**, etc.) and enforce strict role-based access control, cryptographic isolation, and aggregate reporting limits.
+- **Pulse Check-ins vs. Clinical Care**: Mood trackers (e.g., WorkMate, Sentio) measure sentiment trends, whereas enterprise platforms (e.g., Spring Health, Lyra Health) deliver licensed clinical therapy. Do not substitute self-serve tracking for professional psychological care.
+- Open-source implementations should be audited for multi-tenancy, authentication security, and database encryption prior to deployment in production environments.
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ for HR teams, engineering managers, and organizations building transparent, human-centered workplaces.</sub>
+</p>
