@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global corporate wellness market is valued between **$55B and $76B** (projected to reach over $100B by 2030 at ~7–9% CAGR), driven by preventive digital health, remote workplace ergonomics, and corporate mental health investments. The industry is currently **moderately fragmented**—with no single leader controlling more than 10% market share and the top 10 providers capturing 35–40%—though it is rapidly consolidating through M&A as enterprise buyers migrate away from point solutions toward unified, all-in-one health and benefits platforms.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Virgin Pulse](https://www.virginpulse.com/)**
-
-  **Enterprise wellbeing and engagement platform** covering physical, mental, social, and financial health. **Pricing**: Quote-only; per-employee-per-month models typical for enterprise contracts. **Free tier**: None. **Best for**: large employers wanting a broad, engagement-focused wellbeing platform with rewards and challenges.
-
-
-
-- **[Wellable](https://www.wellable.co/)**
-
-  **Corporate wellness platform** with challenges, rewards, and wellbeing content. **Pricing**: Quote-only; tiered by employee count and feature scope. **Free tier**: None. **Best for**: mid-market organizations wanting structured wellness challenges and engagement programs.
-
-
-
-- **[Wellhub](https://wellhub.com/)** (formerly Gympass)
-
-  **Corporate wellness network** providing employee access to gyms, studios, and wellness apps. **Pricing**: Per-employee subscription models; quote-based. **Free tier**: None. **Best for**: organizations wanting to offer fitness and wellness access as a benefit without managing multiple vendor relationships.
-
-
-
-- **[Calm for Business](https://www.calm.com/business)**
-
-  **Meditation and sleep app for the workplace**. **Pricing**: Per-seat licensing; quote-based for enterprise. **Free tier**: Limited free trial; no perpetual free business tier. **Best for**: organizations wanting accessible, self-guided mental wellbeing content for employees.
-
-
-
-- **[Headspace for Work](https://www.headspace.com/work)**
-
-  **Meditation and mindfulness platform for organizations**. **Pricing**: Per-seat licensing; quote-based. **Free tier**: None for business; personal free tier limited. **Best for**: companies wanting evidence-based mindfulness and meditation content with engagement analytics.
-
-
-
-- **[Spring Health](https://www.springhealth.com/)**
-
-  **Precision mental health benefit** with clinical care navigation, therapy, coaching, and medication management. **Pricing**: Quote-only; typically per-employee-per-month with utilization-based components. **Free tier**: None. **Best for**: employers wanting clinically validated mental health support with measurable outcomes.
-
-
-
-- **[Lyra Health](https://www.lyrahealth.com/)**
-
-  **Comprehensive mental health benefit** with therapist network, coaching, and digital self-care. **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations prioritizing access to high-quality clinical mental health care for employees and dependents.
-
-
-
-- **[WebMD Health Services](https://www.webmdhealthservices.com/)**
-
-  **Population health management and wellbeing platform** with health assessments, coaching, and condition management. **Pricing**: Quote-only. **Free tier**: None. **Best for**: employers wanting clinically oriented health management integrated with broader benefits strategy.
-
-
-
-- **[Limeade](https://www.limeade.com/)**
-
-  **Employee wellbeing and engagement platform** with inclusion, purpose, and energy focus areas. **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations wanting a holistic wellbeing approach that includes engagement and inclusion alongside health.
-
-
-
-- **[Workday Wellness](https://www.workday.com/)**
-
-  **Wellness module** within Workday HCM. **Pricing**: Quote-only; bundled with Workday suite. **Free tier**: None. **Best for**: Workday customers wanting employee wellbeing data integrated with core HCM and benefits.
-
-
+| Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tiers) | Free Tier / Trial Limits | Key Capabilities & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Workday Wellness](https://www.workday.com/)** | **~$52B Market Cap** (~$8.4B–$10B ARR) | Core HCM suite starts at **~$3–$8/employee/month** at scale ($35–$100/employee/year; Wellness module quoted as enterprise add-on) | **No perpetual free tier**; enterprise sales demo & custom sandbox environments available upon RFP qualification | Best for Workday enterprise customers seeking integrated benefits administration and unified HR data. |
+| **[Lyra Health](https://www.lyrahealth.com/)** | **~$5.6B Valuation** (Series F) | Starting tiers structured via clinical baseline models at **~$3–$10 PEPM** (utilization & value-based outcomes models) | **No perpetual free tier**; structured prospective client evaluation demos with no public self-service sandbox | Comprehensive clinical mental health, therapist networks, digital coaching, and outcome-guaranteed enterprise care. |
+| **[Spring Health](https://www.springhealth.com/)** | **~$3.3B Valuation** (Series E) | Bundled enterprise mental health starting tiers at **~$3–$10 PEPM** based on workforce size & coverage scope | **No perpetual free tier**; enterprise sales demo & clinical ROI consultation with no direct self-serve trial | Precision mental health, clinical navigation, employee therapy sessions, and psychiatric medication management. |
+| **[Virgin Pulse](https://www.virginpulse.com/)** *(Personify Health)* | **~$3.0B Valuation** (~$500M ARR post-merger) | Starting enterprise packages at **~$3–$6 PEPM** (typical annual minimum commitments start at ~$15,000–$18,000/year) | **No perpetual free tier**; sales-guided interactive partner portal demo and pilot scoping (no public self-serve trial) | Large employers seeking holistic engagement, physical activity rewards, social challenges, and health benefits navigation. |
+| **[Wellhub](https://wellhub.com/)** *(Gympass)* | **~$2.4B Valuation** (Series F) | Employer corporate baseline access fee starts at **$1.00/employee/month** (Premium packages from $10–$50 PEPM; employee gym tiers separate) | **No perpetual free tier**; employer pilot walkthroughs available on request (requires corporate email domain) | Subsidized global gym, fitness studio, and digital wellness app networks for distributed workforces. |
+| **[Calm for Business](https://www.calm.com/business)** | **~$2.0B Valuation** (~$200M–$210M ARR) | Starting self-serve business tiers at **~$60–$70/employee/year** (~$5.00–$5.83/seat/month, min. 5 seats billed annually) | **Perpetual consumer free tier** (limited rotating meditations, 1 breathing exercise; business admin portal has 0 free days / demo-only) | Turnkey self-guided mindfulness, sleep stories, guided breathing, and workplace stress reduction. |
+| **[Headspace for Work](https://www.headspace.com/work)** | **~$300M Acquisition** (~$200M ARR) | Core mindfulness tiers start at **$12–$36/employee/year** ($1–$3/seat/month for 100+ seats; clinical coaching at $3–$12 PEPM) | **14-day free trial** with full library access on consumer accounts (business tiers evaluated via consultative sales pilot) | Evidence-based mindfulness sessions, mood check-ins, focus music, and integrated behavioral health coaching. |
+| **[WebMD Health Services](https://www.webmdhealthservices.com/)** | **Sub-division of KKR / WebMD** (~$75M Limeade acquisition) | Digital-only wellness starting tiers at **~$3–$8 PEPM** (full-service clinical/coaching packages start at $8–$15+ PEPM) | **No perpetual free tier**; guided platform demonstration and organizational pilot scoping via sales consultants | Clinically oriented population health management, biometric screening integration, and chronic condition support. |
+| **[Limeade](https://www.limeade.com/)** *(WebMD ONE)* | **$75M Acquisition Price** (~$56M annual revenue) | Employee listening and wellbeing suites start at **~$3–$7 PEPM** (minimum employee headcount thresholds apply) | **No perpetual free tier**; custom employer demo of TINYpulse and Limeade Well-Being suites upon request | Holistic employee engagement, organizational inclusion, pulse survey analytics, and well-being habit tracking. |
+| **[Wellable](https://www.wellable.co/)** | **~$22M–$26M ARR** (Private Growth Stage) | *Essentials* tier starts at **$4.00/user/month** ($100/mo platform minimum; *Pro* tier starts at $6.00/user/month) | **No perpetual free tier**; interactive product tours and personalized 1-on-1 team demonstrations on request | Mid-market structured wellness challenges, customizable rewards programs, and wearable health tracker syncing. |
 
 ## Open-Source GitHub Projects
 
